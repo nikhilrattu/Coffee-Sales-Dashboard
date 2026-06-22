@@ -1,5 +1,5 @@
 # Coffee-Sales-Dashboard
-This Excel-based dashboard provides a comprehensive analysis of coffee sales performance across multiple years (2019–2022). It is designed to transform raw transactional data into actionable business intelligence, allowing stakeholders to track revenue trends, identify high-value customers, and understand regional market penetration.
+- This Excel-based dashboard provides a comprehensive analysis of coffee sales performance across multiple years (2019–2022). It is designed to transform raw transactional data into actionable business intelligence, allowing stakeholders to track revenue trends, identify high-value customers, and understand regional market penetration.
 
 ## Project Overview
 
